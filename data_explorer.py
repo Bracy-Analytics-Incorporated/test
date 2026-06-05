@@ -9,7 +9,7 @@ import plotly.express as px
 
 def load_data():
 
-    return pd.read_csv(r"..\..\..\..\Navitas\ADPC_42203_20240826.csv")  # csv file
+    return pd.read_csv(r"C:\Users\dwayn\OneDrive\Navitas\ADPC_42203_20240826.csv")  # csv file
 
 
 st.title("Data Exploration Tool")
